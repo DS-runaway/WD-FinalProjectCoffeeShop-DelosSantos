@@ -1,8 +1,11 @@
+.navbar-brand {
+    padding-left: 0.5%;
+}
+
 .nav-item {
-    padding-left: 10%;
+    padding-left: 5%;
 }
 
 img.mainthumbnail {
-    height: 75%;
     width: 100%;
 }
