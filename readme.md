@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/DS-runaway/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Final Project</h3>
+  <h3 align="center">Final Project - Coffee Shop </h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  A website dedicated to an exisiting coffee shop brand under the name, Coffee Project, with the help of Bootstrap.
+  A website dedicated to an exisiting coffee shop brand under the name, Coffee Project, with the help of Bootstrap and in accordance with the final requirements for the CSS0027L course.
 </div>
 
 <br />
@@ -76,7 +76,7 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 - Parallax transition
 - Transactional
 
