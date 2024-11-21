@@ -18,7 +18,13 @@
 
 <br />
 
+Wakatime Progress before folder name change (As of November 21, 2024 for Summative):
+
 [![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/dbfcf697-7f58-4ff3-b9ff-4fc44ce59a19.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/dbfcf697-7f58-4ff3-b9ff-4fc44ce59a19)
+
+Wakatime Progress after folder name change:
+
+[![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3)
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
