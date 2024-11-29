@@ -24,7 +24,7 @@ Wakatime Progress before folder name change (As of November 21, 2024):
 
 Wakatime Progress after folder name change (As of November 29, 2024):
 
-
+[![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3)
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
