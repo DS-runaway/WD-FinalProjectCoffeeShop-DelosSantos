@@ -73,9 +73,9 @@ Guiding Question:
 - Whats the purpose?
     <p>The purpose of this project is to learn and get oneself familiar with coding and designing a website using libraries with HTML.</p>
 - What are key components?
-    This website's key components are listed below.
+    <p>This website's key components are listed below.</p>
 - What technology used and how it is used?
-    This website's used technologies are listed below.
+    <p>This website's used technologies are listed below.</p>
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -129,4 +129,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Coffee Project FB Page | Main source of captions, images, and information | https://www.facebook.com/coffeeprojectofficial |
+| Coffee Project Scribd Article | Information for About Page | https://www.scribd.com/document/699551032/COFFEE-PROJECT |
