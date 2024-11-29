@@ -24,7 +24,7 @@ Wakatime Progress before folder name change (As of November 21, 2024):
 
 Wakatime Progress after folder name change (As of November 29, 2024):
 
-[![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3)
+
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
@@ -73,7 +73,7 @@ Guiding Question:
 - Whats the purpose?
     <p>The purpose of this project is to learn and get oneself familiar with coding and designing a website using libraries with HTML.</p>
 - What are key components?
-    <p>This website's key components are being a multipage website, embedded with Bootstrap features, and responsive for PC and tablet devices as listed below.</p>
+    <p>This website's key components are multipage website, Bootstrap features, and responsive attributes for PC and tablet devices as listed below.</p>
 - What technology used and how it is used?
     <p>This website's used technologies are HTML, CSS and JS as listed below.</p>
 
