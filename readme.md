@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/DS-runaway/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assers" width="130" height="100">
+    <img src="./assets/img/coffeeprojectlogo.png" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project - Coffee Shop </h3>
@@ -24,7 +24,7 @@ Wakatime Progress before folder name change (As of November 21, 2024):
 
 Wakatime Progress after folder name change (As of November 29, 2024):
 
-[![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3)
+???
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
