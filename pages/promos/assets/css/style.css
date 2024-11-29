@@ -1,0 +1,47 @@
+.background {
+    background-color: #2e1213;
+    background-size: cover;
+    font-family: "Titillium Web", sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Titillium Web", sans-serif;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Titillium Web", sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: "Titillium Web", sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.navbar-brand {
+    padding-left: 0.5%;
+}
+
+.nav-item {
+    padding-left: 5%;
+    font-weight: bold;
+}
+
+.card {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img.mainthumbnail {
+    width: 100%;
+}
+
+.footer {
+    padding: 20px;
+    margin-top: 40px;
+}
