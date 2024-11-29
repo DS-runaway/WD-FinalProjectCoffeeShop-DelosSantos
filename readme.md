@@ -20,7 +20,7 @@
 
 Wakatime Progress before folder name change (As of November 21, 2024):
 
-[![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/dbfcf697-7f58-4ff3-b9ff-4fc44ce59a19.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/dbfcf697-7f58-4ff3-b9ff-4fc44ce59a19)
+[![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/dbfcf697-7f58-4ff3-b9ff-4fc44ce59a19)
 
 Wakatime Progress after folder name change (As of November 29, 2024):
 
@@ -73,9 +73,9 @@ Guiding Question:
 - Whats the purpose?
     <p>The purpose of this project is to learn and get oneself familiar with coding and designing a website using libraries with HTML.</p>
 - What are key components?
-    <p>This website's key components are listed below.</p>
+    <p>This website's key components are being a multipage website, embedded with Bootstrap features, and responsive for PC and tablet devices as listed below.</p>
 - What technology used and how it is used?
-    <p>This website's used technologies are listed below.</p>
+    <p>This website's used technologies are HTML, CSS and JS as listed below.</p>
 
 ### Key Components
 <!-- TODO: List of Key Components -->
