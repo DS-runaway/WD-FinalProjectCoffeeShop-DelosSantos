@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/DS-runaway/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assers" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project - Coffee Shop </h3>
@@ -18,11 +18,11 @@
 
 <br />
 
-Wakatime Progress before folder name change (As of November 21, 2024 for Summative):
+Wakatime Progress before folder name change (As of November 21, 2024):
 
 [![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/dbfcf697-7f58-4ff3-b9ff-4fc44ce59a19.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/dbfcf697-7f58-4ff3-b9ff-4fc44ce59a19)
 
-Wakatime Progress after folder name change:
+Wakatime Progress after folder name change (As of November 29, 2024):
 
 [![wakatime](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3.svg)](https://wakatime.com/badge/user/8212635a-c5cf-42a7-911f-f344a63e7019/project/38471584-38eb-4062-8db4-b9aea69beca3)
 
@@ -68,17 +68,21 @@ Wakatime Progress after folder name change:
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project?
+    The project is to make a working responsive website using Bootstrap or Tailwind based on the prompt given to the student's respective group.
+- Whats the purpose?
+    The purpose of this project is to learn and get oneself familiar with coding and designing a website using libraries with HTML.
+- What are key components?
+    This website's key components are listed below.
+- What technology used and how it is used?
+    This website's used technologies are listed below.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Parallax transition
-- Transactional
+- Embedded with Bootstrap Features
+- Added Responsiveness for PC and Tablet Devices
 
 ### Technology
 <!-- TODO: List of Technology Used -->
